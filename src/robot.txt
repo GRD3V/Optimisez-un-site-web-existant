@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /index.html
+Allow: /contact.html
+Sitemap: https://openclassrooms-projects.gitlab.io/optimisez-un-site-web-existant/sitemap.xml
