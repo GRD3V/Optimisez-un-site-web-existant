@@ -1,7 +1,7 @@
 # Optimisez un site web existant
 
 [![PREVIEW](https://img.shields.io/badge/PREVIEW-17F?style=for-the-badge)](https://grd3v.github.io/Optimisez-un-site-web-existant/)
-[![LEGACY](https://img.shields.io/badge/LEGACY-17F?style=for-the-badge)](https://grd3v.github.io/Transformez-une-maquette-en-site-web-avec-HTML-and-CSS/legacy)
+[![LEGACY](https://img.shields.io/badge/LEGACY-17F?style=for-the-badge)](https://grd3v.github.io/Optimisez-un-site-web-existant/legacy)
 
 ---
 
